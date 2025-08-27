@@ -11,7 +11,7 @@ html {
 body {
   max-width: 100%;
   width: 100vw;
-  height: 100vh;
+  height: 100%;
   background: url(images/bg.jpg);
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
@@ -466,5 +466,6 @@ nav ul li a {
     width: 80vw;
   }
 }
+
 
 

@@ -20,7 +20,7 @@ body {
   width: 100vw;
   height: 100vh;
   max-width: 100%;
-  max-height: 100%;
+  max-height: 100vh;
   background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
 }
@@ -463,3 +463,4 @@ nav ul li a {
     font-size: 25px
   }
 }
+

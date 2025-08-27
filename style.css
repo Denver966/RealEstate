@@ -462,5 +462,9 @@ nav ul li a {
   .head{
     font-size: 25px
   }
+  .right, .left{
+    width: 80vw;
+  }
 }
+
 
